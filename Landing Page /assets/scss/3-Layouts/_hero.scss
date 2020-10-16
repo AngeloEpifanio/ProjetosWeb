@@ -1,0 +1,17 @@
+.hero{
+    background-color: $color_light;
+    .hero_wrap{
+        padding-top: 60px;
+        overflow: hidden;
+        .hero_title{
+            color: $color_primary;
+            font-size: 40px;
+            text-transform: capitalize;
+        }
+        .img_wrap{
+            img{
+                width: 100%;
+            }
+        }
+    }
+}

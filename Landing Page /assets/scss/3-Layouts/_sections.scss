@@ -1,0 +1,57 @@
+.section{
+  position: relative;
+  padding: 50px 0;
+    .section_title {
+        color: $color_text;
+        text-align: left;
+        text-transform: capitalize;
+        position: relative;
+        font-size: 30px;
+        @include md {
+          font-size: 35px;
+        }
+    
+        @include sm {
+          font-size: 30px;
+        }
+    }
+    .section_title_sm{
+      color: $color_text;
+        text-align: left;
+        text-transform: capitalize;
+        position: relative;
+        font-size: 20px;
+        @include md {
+            font-size: 20px;
+          }
+      
+          @include sm {
+            font-size: 20px;
+          }
+    }
+    .section_subtitle {
+      max-width: 40rem;
+        font-size: 25px;
+        color: $color_title;
+        margin-top: 15px;
+      }
+      .details{
+          font-size: 12px;
+          margin: 0;
+      }
+      .section_desc {
+        color:  $color_text;
+        margin: 20px 0;
+      }
+      .section_icon{
+        margin-right: 30px;
+      }
+      &.section_form{
+        background-color: $color_primary;
+        .form_title{
+          color: white;
+          font-size: 25px;
+        }
+      }
+
+}

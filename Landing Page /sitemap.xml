@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://saude.com.br/images/empresa-amil.png</loc>
+    <lastmod>2018-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saude.com.br/images/mei-amil.png</loc>
+    <lastmod>2018-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saude.com.br/images/coparticipa%C3%A7%C3%A3o-amil.png</loc>
+    <lastmod>2018-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saude.com.br/images/seta-across-amil.png</loc>
+    <lastmod>2018-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://saude.com.br/index.html</loc>
+    <lastmod>2018-06-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://saude.com.br/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://saude.com.br/tablet/index.html"/>
+  </url>
+</urlset>

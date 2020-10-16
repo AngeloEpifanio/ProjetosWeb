@@ -1,0 +1,73 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="saude.com.br" resolutions="1x" timestamp="1530053393722">
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="3865722438" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4118285982" seo="true" mt="1529887989368" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="3898269341" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="522573336" seo="true" mt="1529947672169" redirect="true"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="3850354110" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:phone>index:tablet>index"/>
+    <file name="museutils.js" crc="183364071" ref="index:phone>index:tablet>index"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:tablet>index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index:tablet>index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:phone>index:tablet>index"/>
+    <file name="webpro.js" crc="3803554875" ref="index:phone>index:tablet>index"/>
+    <file name="form_check.php" crc="277267350" ref="index:phone>index:tablet>index"/>
+    <file name="form_throttle.php" crc="3908387251" ref="index:phone>index:tablet>index"/>
+    <file name="form_process.php" crc="24249335" ref="index:phone>index:tablet>index"/>
+    <file name="form-u179.php" crc="349976915" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:tablet>index"/>
+    <file name="museredirect.js" crc="40941066" ref="tablet>index:index"/>
+    <file name="form-u822.php" crc="4109002820" ref="phone>index"/>
+    <file name="form-u861.php" crc="483797515" ref="phone>index"/>
+    <file name="form-u747.php" crc="204474888" ref="tablet>index"/>
+    <file name="form-u706.php" crc="3811344622" ref="tablet>index"/>
+    <file name="form-u688.php" crc="4073664928" ref="index"/>
+    <file name="musewpdisclosure.js" crc="3993616448" ref="phone>index"/>
+  </folder>
+  <folder name="images">
+    <file name="banner-top-amil.jpg" crc="4276327163" ref="tablet>index"/>
+    <file name="u195-17.png" crc="172040636" ref="index"/>
+    <file name="u195-17-r.png" crc="3845541812" ref="index"/>
+    <file name="u195-17-m.png" crc="3845541812" ref="index"/>
+    <file name="u195-17-fs.png" crc="4243911504" ref="index"/>
+    <file name="empresa-amil.png" crc="4039192737" seo="true" ref="index:tablet>index:phone>index"/>
+    <file name="mei-amil.png" crc="23228598" seo="true" ref="index:tablet>index:phone>index"/>
+    <file name="coparticipação-amil.png" crc="124598885" seo="true" ref="index:tablet>index:phone>index"/>
+    <file name="seta-across-amil.png" crc="4154527090" seo="true" ref="phone>index:tablet>index:index"/>
+    <file name="u823-17.png" crc="127157814" ref="phone>index"/>
+    <file name="u823-17-r.png" crc="44874337" ref="phone>index"/>
+    <file name="u823-17-m.png" crc="44874337" ref="phone>index"/>
+    <file name="u823-17-fs.png" crc="130401007" ref="phone>index"/>
+    <file name="u872-17.png" crc="4045116885" ref="phone>index"/>
+    <file name="u872-17-r.png" crc="132986536" ref="phone>index"/>
+    <file name="u872-17-m.png" crc="132986536" ref="phone>index"/>
+    <file name="u872-17-fs.png" crc="318618367" ref="phone>index"/>
+    <file name="u754-17.png" crc="4257315033" ref="tablet>index"/>
+    <file name="u754-17-r.png" crc="3845541812" ref="tablet>index"/>
+    <file name="u754-17-m.png" crc="3845541812" ref="tablet>index"/>
+    <file name="u754-17-fs.png" crc="4243911504" ref="tablet>index"/>
+    <file name="u718-17.png" crc="390328839" ref="tablet>index"/>
+    <file name="u718-17-r.png" crc="324792210" ref="tablet>index"/>
+    <file name="u718-17-m.png" crc="324792210" ref="tablet>index"/>
+    <file name="u718-17-fs.png" crc="4267887409" ref="tablet>index"/>
+    <file name="u689-17.png" crc="4151605220" ref="index"/>
+    <file name="u689-17-r.png" crc="324792210" ref="index"/>
+    <file name="u689-17-m.png" crc="324792210" ref="index"/>
+    <file name="u689-17-fs.png" crc="4267887409" ref="index"/>
+    <file name="menu-normal.png" crc="46382388" ref="phone>index"/>
+    <file name="menu-active.png" crc="4054347624" ref="phone>index"/>
+    <file name="banner-top-amil-dental.jpg" crc="116589235" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4070402622" seo="true" mt="1530053349566" redirect="true"/>
+</manifest>

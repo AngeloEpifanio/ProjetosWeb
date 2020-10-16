@@ -1,0 +1,28 @@
+
+h1, h2, h3, h4, h5, h6 {
+    clear: both;
+	font-family: $font-primary !important;
+	font-weight: bold;
+	text-align: inherit;
+	position: relative;
+	letter-spacing: -0.01em;
+    line-height: 1.2;
+}
+a{
+	color: $color_primary;
+	&:hover{
+		color: $color_secondary;
+	}
+}
+
+
+/*--------------------------------------------------------------
+## Typography
+--------------------------------------------------------------*/
+
+p {
+	width: 100%;
+	margin: 10px auto;
+	display: block;
+
+}
